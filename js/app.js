@@ -1,7 +1,3 @@
-function Saludos(){
-    alert("hola mundo desde main")
-}
-
-function saludar(){
-    alert("hola mundo desde aqui")
+function python(){
+    alert("hola mi nombre es cristian y estoy desde python")
 }
